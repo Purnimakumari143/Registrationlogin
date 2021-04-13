@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"conta",
+				"Contact"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"tup",
+				"tuple"
+			],
+			[
+				"list",
+				"list2"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"my",
+				"mytup"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mylis",
+				"mylist2"
+			],
+			[
+				"s",
+				"snake_y"
+			],
+			[
+				"sna",
+				"Snake_x"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"e",
+				"exit_game"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"sc",
+				"screen_height"
+			],
+			[
+				"scree",
+				"screen_width"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"un",
+				"uname"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"Con",
+				"Contactnumber"
+			],
+			[
+				"col-",
+				"col-sm-4"
+			],
+			[
+				"C",
+				"ConfirmPassword"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"Conn",
+				"connection"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"con",
+				"contactno"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"js",
+				"jssc"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"for",
+				"form-row"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"ro",
+				"rounded"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"i",
+				"img-fluid"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"img",
+				"img24"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"jsss",
+				"jsssc1"
+			],
+			[
+				"clo",
+				"close"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"bin",
+				"bind_param"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"border",
+				"border-collapse\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Desktop/GRIP/stylesheet.css",
+		"/C/Users/HP/Desktop/GRIP/index.html",
+		"/C/Users/HP/Desktop/GRIP/bootstrap.css",
+		"/C/Users/HP/Desktop/GRIP/contact.html",
+		"/C/Users/HP/Desktop/GRIP/donate.html",
+		"/C/Users/HP/Desktop/page2/image.html",
+		"/C/Users/HP/Desktop/page2/bootstrap.css",
+		"/C/Users/HP/Desktop/page2/stylesheet.css",
+		"/C/Users/HP/Desktop/page2/donate.html",
+		"/C/Users/HP/Desktop/page2/responsive.css",
+		"/C/Users/HP/Desktop/page2/contact.html",
+		"/C/Users/HP/Desktop/page2/thank.html",
+		"/C/Users/HP/Desktop/page2/index.html",
+		"/C/Users/HP/Desktop/page2/main.html",
+		"/C/Users/HP/Desktop/page2/style.css",
+		"/C/Users/HP/Desktop/page2/rozar.css",
+		"/C/Users/HP/Desktop/page2/rozar.html",
+		"/C/Users/HP/Desktop/Web/index.css",
+		"/C/Users/HP/Desktop/Web/index.html",
+		"/C/Users/HP/Desktop/Banner/index.html",
+		"/C/Users/HP/Desktop/Spark Intern/Donation/front.html",
+		"/C/Users/HP/Desktop/Spark Intern/Donation/front.css",
+		"/C/Users/HP/Desktop/Banner/CSS/index.css",
+		"/C/Users/HP/Desktop/Banner/index.css",
+		"/C/Users/HP/Desktop/Angular App/tech.py",
+		"/C/Users/HP/Desktop/Angular App/index.html",
+		"/C/Users/HP/Desktop/javascriptlearner/index.html",
+		"/C/Users/HP/Desktop/javascriptlearner/app.js",
+		"/C/xampp/htdocs/JSSC/Panchayatsachiw.html",
+		"/C/xampp/htdocs/JSSC/plogin.php",
+		"/C/xampp/htdocs/JSSC/css.html",
+		"/C/xampp/htdocs/trylogin.php",
+		"/C/xampp/htdocs/JSSC/dbregister.php",
+		"/C/xampp/htdocs/JSSC/login.html",
+		"/C/xampp/htdocs/JSSC/cglform.html",
+		"/C/xampp/htdocs/JSSC/jssc.html",
+		"/C/xampp/htdocs/JSSC/login.php",
+		"/C/xampp/htdocs/JSSC/register.php",
+		"/C/xampp/htdocs/JSSC/Login1.php",
+		"/C/xampp/htdocs/JSSC/loginn.php",
+		"/C/xampp/htdocs/JSSC/news.html",
+		"/C/xampp/htdocs/JSSC/stenographer.html",
+		"/C/xampp/htdocs/JSSC/highcourt.html",
+		"/C/xampp/htdocs/JSSC/sachivalya.html",
+		"/C/xampp/htdocs/JSSC/cgl.html",
+		"/C/xampp/htdocs/JSSC/Register.html",
+		"/C/xampp/htdocs/JSSC/sachiwalye.html",
+		"/C/xampp/htdocs/JSSC/mores.html",
+		"/C/xampp/htdocs/JSSC/jssc form.html",
+		"/C/xampp/htdocs/JSSC/image.html",
+		"/C/xampp/htdocs/JSSC/form.html",
+		"/C/xampp/htdocs/JSSC/finance.html",
+		"/C/xampp/htdocs/JSSC/map.html",
+		"/C/xampp/htdocs/JSSC/shopping.html",
+		"/C/xampp/htdocs/JSSC/im7.html",
+		"/C/xampp/htdocs/JSSC/conn.php",
+		"/C/xampp/htdocs/JSSC/Login1.html",
+		"/C/xampp/htdocs/JSSC/reg.html",
+		"/C/xampp/htdocs/JSSC/Applicationfrm cgl.html",
+		"/C/xampp/htdocs/JSSC/Applicationfrm cgl",
+		"/E/xampp/htdocs/JSSC/signup.php",
+		"/C/xampp/htdocs/JSSC/signup.html",
+		"/C/xampp/htdocs/JSSC/signup.php",
+		"/C/xampp/htdocs/JSSC/Registeration.html",
+		"/C/xampp/htdocs/JSSC/JSSC.html",
+		"/C/Users/HP/Desktop/JSSC/highcourt.html",
+		"/C/Users/HP/Desktop/JSSC/global.css",
+		"/C/Users/HP/Desktop/JSSC/login.php",
+		"/C/Users/HP/Desktop/JSSC/Register.html",
+		"/C/Users/HP/Desktop/JSSC/mores.html",
+		"/C/Users/HP/Desktop/JSSC/map.html",
+		"/C/Users/HP/Desktop/JSSC/image.html",
+		"/C/Users/HP/Desktop/JSSC/photo.html",
+		"/C/Users/HP/Desktop/JSSC/lo",
+		"/C/Users/HP/Desktop/JSSC/Jharkhand Map.html",
+		"/D/web development/img10.png",
+		"/D/web development/img11.jpg",
+		"/C/Users/HP/Desktop/JSSC/JSSC.html",
+		"/C/Users/HP/Desktop/JSSC/Login1.html",
+		"/C/Users/HP/Desktop/JSSC/news.html",
+		"/C/Users/HP/Desktop/JSSC/notification.html",
+		"/D/web development/index.html",
+		"/D/web development/style.css",
+		"/C/Users/HP/Desktop/JSSC/login2.css",
+		"/C/Users/HP/Desktop/JSSC/JSSC/Login.html",
+		"/C/Users/HP/Desktop/JSSC/l.html",
+		"/C/Users/HP/Desktop/JSSC.zip",
+		"/C/Program Files/Sublime Text 3/jssc",
+		"/C/Users/HP/Desktop/miniproject/JSSC.html",
+		"/C/Users/HP/Documents/Visual Studio 2015/webbpage",
+		"/C/Users/HP/Documents/Visual Studio 2015/Webpage",
+		"/C/Users/HP/Desktop/miniproject/Registeration.html",
+		"/C/Users/HP/Desktop/miniproject/news.html",
+		"/C/Users/HP/Desktop/miniproject/map.html",
+		"/C/Users/HP/Desktop/miniproject/image.html",
+		"/C/Users/HP/Desktop/miniproject/Applicationfrm cgl.html",
+		"/C/Users/HP/Desktop/miniproject/l.html",
+		"/C/Users/HP/Desktop/miniproject/Login1.html",
+		"/C/Users/HP/Desktop/miniproject/Login.html",
+		"/C/Users/HP/Desktop/miniproject/m.html",
+		"/C/Users/HP/Desktop/miniproject/LoginNew.html",
+		"/C/Users/HP/Desktop/internsala.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"a.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
